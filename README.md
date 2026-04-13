@@ -23,4 +23,4 @@ Predicted weekly demand for Eco Bags and recommended smart inventory policies to
 - Recommendation: Implement a reorder policy at 24 units and review stock weekly for A-category items to reduce stockout risk while keeping holding costs low.
 
 ### Relevance to Supply Chain Roles
-This project demonstrates practical skills in **demand planning**, **forecasting**, **inventory management**, and **data-driven decision making** — directly applicable to DKSH Supply Chain functions such as supply/demand planning, DC operations, and supply chain data analysis.
+This project demonstrates practical skills in **demand planning**, **forecasting**, **inventory management**, and **data-driven decision making**
