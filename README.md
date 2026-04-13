@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElmiAbirnew/demand-forecasting-ecobags-hku/blob/main/Demand_Forecasting_EcoBags_HKU_Sustainability.ipynb)
 # Demand Forecasting & Inventory Optimization for Eco Bags
 
 **HKU Sustainability Club Project**  
