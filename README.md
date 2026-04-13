@@ -15,5 +15,12 @@ Predicted weekly demand for Eco Bags and recommended smart inventory policies to
 - Suggested **Safety Stock** = **42.2 units**
 - Target stock level ≈ **66 units**
 
+**Business Insights:**
+
+- Demand for Eco Bags shows upward trend with seasonal spikes.
+- EOQ of 512 units suggests ordering roughly every 3–4 weeks instead of frequent small orders.
+- Safety stock of 42 units provides good protection during big sustainability events.
+- Recommendation: Implement a reorder policy at 24 units and review stock weekly for A-category items to reduce stockout risk while keeping holding costs low.
+
 ### Relevance to Supply Chain Roles
 This project demonstrates practical skills in **demand planning**, **forecasting**, **inventory management**, and **data-driven decision making** — directly applicable to DKSH Supply Chain functions such as supply/demand planning, DC operations, and supply chain data analysis.
